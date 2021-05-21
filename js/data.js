@@ -17,7 +17,7 @@ var JSONBingo = {"squares": [
           {"square": "Sch&auml;rfere Gesetze!"},
           {"square": "Vorratsdaten- speicherung"},
           {"square": "Syrien!"},
-          {"square": "Immigration!"}
+          {"square": "Immigration!"},
           {"square": "Killerspiele"},
           {"square": "Fu&szlig;schuss"},
           {"square": "Total glaubw&uuml;rdige Herleitung"},
