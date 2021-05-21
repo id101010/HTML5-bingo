@@ -1,4 +1,4 @@
-var headerText = "Polizeiliche Massnahmen zur Bekämpfung von Terrorismus Bullshit Bingo";
+var headerText = "Polizeilicher Terrorismus BS-Bingo";
 
 var footerText = "<a href='https://github.com/id101010/HTML5-bingo/' target='_blank'>This versions is code available on github</a><br/><a href='https://github.com/jeffehobbs/HTML5-bingo/' target='_blank'>Original code</a>";
 
