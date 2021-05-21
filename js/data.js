@@ -11,7 +11,7 @@ var winSnd = new Audio("audio/win.mp3");
 var JSONBingo = {"squares": [
 
           {"square": "Kinderrechte werden gewahrt"},
-          {"square": "PMT schliesst L&uuml;ecke in der Terrorbek&auml;mpfung"},
+          {"square": "PMT schliesst L&uuml;cke in der Terrorbek&auml;mpfung"},
           {"square": "Handeln bevor es zu sp&auml;t ist!"},
           {"square": "Verhinderung von terroristischen Aktivit&auml;ten!"},
           {"square": "Das Gesetz ist EMRK-Konform!"},
@@ -64,6 +64,5 @@ var JSONBingo = {"squares": [
           {"square": "Gegner*innen sind linksversiffte Zecken."},
           {"square": "Keine Willk&uuml;r!"},
           {"square": "Nur mit konkreten Hinweisen!"},
-          {"square": "FDP ist daf&uuml;r."},
       ]
 };
