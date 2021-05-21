@@ -1,4 +1,4 @@
-var headerText = "Polizeilicher Terror-Bingo";
+var headerText = "Polizeiterror-Bingo";
 
 var footerText = "<a href='https://github.com/id101010/HTML5-bingo/' target='_blank'>This versions is code available on github</a><br/><a href='https://github.com/jeffehobbs/HTML5-bingo/' target='_blank'>Original code</a>";
 
@@ -16,9 +16,8 @@ var JSONBingo = {"squares": [
           {"square": "Geheimdienst- Connection"},
           {"square": "Sch&auml;rfere Gesetze!"},
           {"square": "Vorratsdaten- speicherung"},
-          {"square": "Verd&auml;chtige alle tot"},
-          {"square": "Taxifahrer nennt Anschrift"},
           {"square": "Syrien!"},
+          {"square": "Immigration!"}
           {"square": "Killerspiele"},
           {"square": "Fu&szlig;schuss"},
           {"square": "Total glaubw&uuml;rdige Herleitung"},
@@ -42,7 +41,7 @@ var JSONBingo = {"squares": [
           {"square": "Grenzen zu!"},
           {"square": "\"Wir brauchen mehr &Uuml;berwachung!\""},
           {"square": "Sch&uuml;tzenverein"},
-          {"square": "CSU"},
+          {"square": "SVP"},
           {"square": "Geheimdienst- Quellen"},
           {"square": "Terrorwarnung aus nur einer Quelle"},
           {"square": "Blo&szlig; ein verwirrter Einzelt&auml;ter"},
