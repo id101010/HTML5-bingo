@@ -13,9 +13,9 @@
 body {
 	background-color: #000000;
 	background-image: url('../img/police.background.png');
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 	font-family: "BodoniSvtyTwoOSITCTT-Bold", "Georgia", serif;
 	text-rendering: optimizeLegibility;
 }
@@ -29,21 +29,21 @@ body {
 }	
 
 #header, #footer {
+	text-align: center;
 	display: block;
 	float: left;
 	width: 600px;
 	color: #FFFFFF;
 	opacity: 1;
-  background-color: none;
+	background-color: none;
 	font-size: 2.0em;
 	font-weight: bold;
 	padding: 8px 20px 8px 20px;
-  text-shadow: 0px 2px 0px #000000;
+  	text-shadow: 0px 2px 0px #000000;
 	transition-property: background-color;
 }
 
 #footer {
-	text-align: center;
 	font-size: 1em;
 	padding: 3px 20px;
 	margin-bottom: 80px;
@@ -90,7 +90,7 @@ body {
 .text {
 	font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue", Arial, sans-serif;
 	vertical-align: middle;
-	font-size: 1.0em;
+	font-size: 0.8em;
 	line-height: 1.2em;
 }
 
