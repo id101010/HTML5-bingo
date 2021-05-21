@@ -11,8 +11,11 @@
 }
 
 body {
-	background-color: #a1a1a1;
-	background-image: url('../img/red_texture.png');
+	background-color: #000000;
+	background-image: url('../img/police.background.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 	font-family: "BodoniSvtyTwoOSITCTT-Bold", "Georgia", serif;
 	text-rendering: optimizeLegibility;
 }
@@ -30,10 +33,9 @@ body {
 	float: left;
 	width: 600px;
 	color: #000000;
-	opacity: 0.75;
+	opacity: 1;
 	text-shadow: 0px 1px 0px #e1e1e1, 0px -1px 0px #313131;
-   	background-color: none;
-   	text-align: center;
+		background-color: none;
 	font-size: 2.8em;
 	font-weight: bold;
 	padding: 8px 20px 8px 20px;
@@ -54,7 +56,7 @@ body {
 
 #footer a {
 	text-decoration: none;
-	color: #8B3E2F;
+	color: #000000;
 }
 
 #board {
@@ -94,7 +96,7 @@ body {
 	font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue", Arial, sans-serif;
 	vertical-align: middle;
 	font-size: 1.0em;
-	line-height: 1.1em;
+	line-height: 1.2em;
 }
 
 .small {
@@ -110,8 +112,8 @@ body {
 }
 
 .win {
-	color: #ffff00 !important;
-   	background-color: black;
+	color: #ffffff !important;
+		background-color: red;
 }
 
 @media only screen 
@@ -139,3 +141,4 @@ and (max-device-width : 480px) {
 		line-height: 1.2em;
 	}
 }
+
