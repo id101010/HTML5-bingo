@@ -1,5 +1,5 @@
-This is the PMT version of J. Hobbs' HTML5-bingo.
-Geared towards the swiss PMT initiative.
+This is a customized version of J. Hobbs' HTML5-bingo.
+Geared towards the swiss anti terror initiative.
 
 Original Readme:
 
@@ -22,4 +22,3 @@ WHAT IT IS:
 HOW TO USE:
 
 All data is kept in the "data.js" file. Customize the .json in the data.js file to change the language on the board.
-
